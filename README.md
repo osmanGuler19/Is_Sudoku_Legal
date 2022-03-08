@@ -1,5 +1,6 @@
 # Is_Sudoku_Legal
-is a Coderbyte question and here is the question :
+is a Coderbyte question and you should put examples in txt file and read it. Just put one of those String examples below.
+here is the question :
 
 Sudoku Quadrant Checker
 Have the function SudokuQuadrantChecker(strArr) read the strArr parameter being passed which will represent a 9x9 Sudoku board of integers ranging from 1 to 9.
